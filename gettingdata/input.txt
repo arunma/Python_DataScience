@@ -1,0 +1,19 @@
+hello
+world
+98
+hello 9 super
+hello again
+whatever
+You can use any
+ Python source
+ file as a
+ module
+ by executing 2 an
+ importing statement in
+ some other 3
+ Python source
+ file.
+  2134
+ The import has
+ the following
+ syntax:
